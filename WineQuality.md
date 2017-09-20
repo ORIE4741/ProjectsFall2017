@@ -1,1 +1,1 @@
-[Wine Quality](https://github.com/easonrecto/ORIE4741Project) by Liane Longpre, Alex Downey, Eason Recto
+[Wine Quality.md](https://github.com/easonrecto/ORIE4741Project) by Liane Longpre, Alex Downey, Eason Recto
