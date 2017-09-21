@@ -1,1 +1,1 @@
-[ExampleProject](https://github.com/sam463/ExampleProject) by Stephen Mustillo
+[ExampleProject](https://github.com/cierrabeck/ExampleProject) by Stephen Mustillo
