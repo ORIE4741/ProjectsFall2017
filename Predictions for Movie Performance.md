@@ -1,1 +1,1 @@
-[Predictions for Movie Performance](https://github.com/Eve208/ProjectsFall2017.git) by Yiwen Jiang, Bingxin Wu
+[Predictions for Movie Performance](https://github.com/Eve208/Predictions-for-Movie-Performance.md.git) by Yiwen Jiang, Bingxin Wu
