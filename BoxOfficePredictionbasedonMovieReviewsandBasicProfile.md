@@ -1,1 +1,1 @@
-[BoxOfficePredictionbasedonMovieReviewsandBasicProfile](https://github.com/SSTXNEO/box-office-prediction) by your names
+[BoxOfficePrediction](https://github.com/SSTXNEO/box-office-prediction) by your names
