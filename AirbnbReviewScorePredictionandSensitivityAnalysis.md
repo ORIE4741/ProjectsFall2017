@@ -1,1 +1,1 @@
-[AirbnbReviewScorePredictionandSensitivityAnalysis](https://github.com/kgcornell/Airbnb-Review-Score-Prediction-and-Sensitivity-Analysis) by Jialin Liu (jl3455), Kerou Gao (kg486) and Kartikay Gupta (kg477)
+[Airbnb Review Score Prediction and Sensitivity Analysis](https://github.com/kgcornell/Airbnb-Review-Score-Prediction-and-Sensitivity-Analysis) by Jialin Liu (jl3455), Kerou Gao (kg486) and Kartikay Gupta (kg477)
