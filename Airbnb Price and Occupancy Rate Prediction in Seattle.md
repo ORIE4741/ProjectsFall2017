@@ -1,0 +1,1 @@
+[Airbnb Price and Occupancy Rate Prediction in Seattle](https://github.com/kgcornell/Airbnb-Price-and-Occupancy-Rate-Prediction-in-Seattle) by Jialin Liu (jl3455), Kerou Gao (kg486) and Kartikay Gupta (kg477)
